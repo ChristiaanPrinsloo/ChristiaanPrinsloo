@@ -15,7 +15,7 @@
 
 <ul>
   <li>Intern Software Engineer at Metalogix studios, learning to develop in a variety of fields.
-  <li><strong>Technical focus</strong>: Python 🐍 HTML 👩‍💻 CSS 📖
+  <li><strong>Technical focus</strong>:C Sharp #️⃣ React ⚛️ Javascript ☕ Python 🐍 HTML 👩‍💻 CSS 📖
   <li><strong>How to reach me 📫 </strong>: You can contact me at my work email <a href="chris@metalogix.solutions"><b>chris@metalogix.solutions</b></a>
 </ul>
 
